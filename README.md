@@ -4,13 +4,17 @@ Automate the process of sending SMS messages to multiple recipients using Python
 ## Description ##
 This project automates the process of sending SMS messages to multiple recipients using Python, Phone Link, and pyautogui. The system mimics user interactions to open the Phone Link app and send messages directly from a connected phone, allowing for seamless bulk messaging without third-party APIs.
 
-Key features include:
-
+Features:
 - Automated SMS sending via Phone Link
 - Use of pyautogui for keyboard and mouse simulation
 - Ability to send messages to multiple recipients
 - Customizable message content
 - Error Handling
+
+Technologies:
+- Python
+- Pyautogui
+- Phone Link
 
 This tool is ideal for automating personal workflows without relying on cloud-based services.
 
