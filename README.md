@@ -19,7 +19,7 @@ Technologies:
 This tool is ideal for automating personal workflows without relying on cloud-based services.
 
 ## Notes ##
-Phone Link is a Windows-based app that works only when your phone is connected to your Microsoft Windows computer. You can reduce delays in the code if needed, especially if your computer is faster than mine!
+Phone Link is a Windows-based app that works only when your phone is connected to your Microsoft Windows computer. You can reduce delays in the code if needed, especially if your computer is faster than mine! The required images of the necessary buttons are available for download in the repository. 
 
 ## Attributions & Remarks ##
 
